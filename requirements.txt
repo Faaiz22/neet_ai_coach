@@ -1,0 +1,23 @@
+# Core AI + LLMs
+transformers
+sentence-transformers
+langchain
+ollama
+
+# Vector store
+faiss-cpu
+chromadb
+
+# File parsing
+PyMuPDF
+python-docx
+pandas
+
+# Math engine
+sympy
+
+# UI
+streamlit
+
+# Utilities
+tqdm
